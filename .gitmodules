@@ -1,0 +1,3 @@
+[submodule "1_typo"]
+	path = 1_typo
+	url = https://github.com/noerten/1_typo.git
