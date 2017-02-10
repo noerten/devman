@@ -1,3 +1,6 @@
 [submodule "1_typo"]
 	path = 1_typo
 	url = https://github.com/noerten/1_typo.git
+[submodule "2_wallie_how_are_you"]
+	path = 2_wallie_how_are_you
+	url = https://github.com/noerten/2_wallie_how_are_you.git
